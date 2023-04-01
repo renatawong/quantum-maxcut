@@ -2,6 +2,7 @@
 Accompanying Jupyter notebook for the paper 
 
 W-L. Chang, R. Wong, W-Y. Chung, Y-H. Chen, J-C. Chen, and A.V. Vasilakos
+
 "Quantum speedup for the maximum cut problem" (2023)
 
 How to use the notebook:
