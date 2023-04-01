@@ -5,6 +5,6 @@ authors:
     given-names: Renata
     orcid: https://orcid.org/0000-0001-5468-0716
 title: "Quantum maximum cut algorithm"
-version: 1.0.2
-doi: N/A
-date-released: 2023-03-31
+version: 1.0.0
+doi: 105281/zenodo.7790805
+date-released: 2023-04-01
