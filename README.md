@@ -1,8 +1,8 @@
 # quantum_maxcut
-Jupyter notebook for quantum algorithm for the maximum cut problem.
+Accompanying Jupyter notebook for the paper 
 
-This notebook is still under active development.
-Paper reference to follow.
+W-L. Chang, R. Wong, W-Y. Chung, Y-H. Chen, J-C. Chen, and A.V. Vasilakos
+"Quantum speedup for the maximum cut problem" (2023)
 
 How to use the notebook:
 1. Input a list of edges into the code body at the indicated position. 
