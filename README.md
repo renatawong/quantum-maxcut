@@ -1,4 +1,4 @@
-# quantum_maxcut
+# Quantum maxcut
 Accompanying Jupyter notebook for the paper 
 
 W-L. Chang, R. Wong, W-Y. Chung, Y-H. Chen, J-C. Chen, and A.V. Vasilakos
