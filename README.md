@@ -5,6 +5,8 @@ W-L. Chang, R. Wong, W-Y. Chung, Y-H. Chen, J-C. Chen, and A.V. Vasilakos
 
 "Quantum speedup for the maximum cut problem" (2023)
 
+To be presented at CTHPC 2023 conference (https://sites.google.com/view/cthpc2023).
+
 
 # How to use the notebook:
 1. Input a list of edges into the code body at the indicated position. 
