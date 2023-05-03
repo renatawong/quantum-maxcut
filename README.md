@@ -1,11 +1,9 @@
 # Quantum maxcut
-Accompanying Jupyter notebook for the paper 
+A quantum algorithm for the maximum cut problem in arbitrary graphs.
 
-W-L. Chang, R. Wong, W-Y. Chung, Y-H. Chen, J-C. Chen, and A.V. Vasilakos
 
-"Quantum speedup for the maximum cut problem" (2023)
-
-To be presented at CTHPC 2023 conference (https://sites.google.com/view/cthpc2023).
+# Status
+This notebook is complete.
 
 
 # How to use the notebook:
@@ -18,4 +16,11 @@ You may need to adjust the variable t in the CNOT gate. It is currently set to t
 You may also need to adjust the variable R used for calculating the number of algorithm iterations. It is currently set to 2 as we expect a single max-cut. If you expect there might be more than one, try setting this value to 2 * expected_number_of_maxcuts.
 
 # Acknowledgement
+This code is based on the theory described in [1]. 
+
+The code was written by Renata Wong (https://orcid.org/0000-0001-5468-0716).
+
 This work benefited greatly from discussions with Prof. Weng-Long Chang (National Kaohsiung University of Science and Technology). All remaining deficiencies are my own.
+
+# References
+[1] W-L. Chang, R. Wong, W-Y. Chung, Y-H. Chen, J-C. Chen, and A.V. Vasilakos, Quantum speedup for the maximum cut problem, CTHPC 2023  (https://sites.google.com/view/cthpc2023).
