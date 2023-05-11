@@ -10,6 +10,8 @@ This notebook is complete.
 1. Input a list of edges into the code body at the indicated position. 
 2. Hit "Run" to execute the algorithm and print the output. 
 
+Note: If you run the Python version, you will get a dictionary of results as output.
+
 # Note: 
 You may need to adjust the variable t in the CNOT gate. It is currently set to the highest possible value indicating that we expect the highest possible cut. So, if your output is not producing two spikes (= a maxcut was found), t should be decreased and the code executed again. Repeat this procedure till the maxcut is found.
 
