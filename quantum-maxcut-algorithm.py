@@ -352,7 +352,6 @@ cuts.reverse()
 qc.measure(cuts, readout)
 
 from qiskit import Aer, execute
-from qiskit.visualization import plot_histogram
 
 simulator = Aer.get_backend('qasm_simulator')
 result = execute(qc, backend = simulator, shots = 100).result()
