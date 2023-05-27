@@ -22,7 +22,7 @@ This code is based on the theory described in [1].
 
 The code was written by Renata Wong (https://orcid.org/0000-0001-5468-0716).
 
-This work benefited greatly from discussions with Prof. Weng-Long Chang (National Kaohsiung University of Science and Technology). All remaining deficiencies are my own.
+This work benefited greatly from discussions with Prof. Weng-Long Chang (National Kaohsiung University of Science and Technology) and Yu-Hao Chen (National Taiwan University). All remaining deficiencies are my own.
 
 # References
 [1] W-L. Chang, R. Wong, W-Y. Chung, Y-H. Chen, J-C. Chen, and A.V. Vasilakos, Quantum speedup for the maximum cut problem, CTHPC 2023  (https://sites.google.com/view/cthpc2023), May 25-26, 2023, National Cheng Kung University, Tainan, Taiwan.
