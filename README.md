@@ -26,4 +26,5 @@ This work benefited greatly from discussions with Prof. Weng-Long Chang (Nationa
 
 # References
 [1] W-L. Chang, R. Wong, W-Y. Chung, Y-H. Chen, J-C. Chen, and A.V. Vasilakos, Quantum speedup for the maximum cut problem, CTHPC 2023  (https://sites.google.com/view/cthpc2023), May 25-26, 2023, National Cheng Kung University, Tainan, Taiwan. DOI: [https://doi.org/10.48550/arXiv.2305.16644](https://doi.org/10.48550/arXiv.2305.16644)
+
 [2] W-L. Chang, R. Wong, Y-H. Chen, W-Y. Chung, J-C. Chen, and A.V. Vasilakos, Bioinspired Quantum Oracle Circuits for Biomolecular Solutions of the Maximum Cut Problem. In preparation. 
