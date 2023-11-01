@@ -18,7 +18,9 @@ You may need to adjust the variable t in the CNOT gate. It is currently set to t
 You may also need to adjust the variable R used for calculating the number of algorithm iterations. It is currently set to 2 as we expect a single max-cut. If you expect there might be more than one, try setting this value to 2 * expected_number_of_maxcuts.
 
 # Acknowledgement
-The code of [quantum_maxcut_algorithm.ipynb](https://github.com/renatawong/quantum-maxcut/blob/5cfe3544b78f365fa78f4d8edba0d7885cbd39e5/quantum_maxcut_algorithm.ipynb) is based on the theory described in [1]. The code of [quantum_maxcut_algorithm_optimized.ipynb](https://github.com/renatawong/quantum-maxcut/blob/5063a8e2a4683b8f57b22de3d0d66c6226d398d9/quantum_maxcut_algorithm_optimized.ipynb) is based on the theory described in [2].
+The code of [quantum_maxcut_algorithm.ipynb](https://github.com/renatawong/quantum-maxcut/blob/5cfe3544b78f365fa78f4d8edba0d7885cbd39e5/quantum_maxcut_algorithm.ipynb) is based on the theory described in [1]. 
+
+The code of [quantum_maxcut_algorithm_optimized.ipynb](https://github.com/renatawong/quantum-maxcut/blob/5063a8e2a4683b8f57b22de3d0d66c6226d398d9/quantum_maxcut_algorithm_optimized.ipynb) is based on the theory described in [2].
 
 The code was written by Renata Wong (https://renatawong.github.io/).
 
