@@ -24,7 +24,7 @@ The code of [quantum_maxcut_algorithm_optimized.ipynb](https://github.com/renata
 
 The code was written by Renata Wong (https://renatawong.github.io/).
 
-This work benefited greatly from discussions with Prof. Weng-Long Chang (National Kaohsiung University of Science and Technology) and Yu-Hao Chen (National Taiwan University). All remaining deficiencies are my own.
+This work benefited greatly from discussions with Yu-Hao Chen (National Taiwan University) and Prof. Weng-Long Chang (National Kaohsiung University of Science and Technology). All remaining deficiencies are my own.
 
 # References
 [1] W-L. Chang, R. Wong, W-Y. Chung, Y-H. Chen, J-C. Chen, and A.V. Vasilakos, Quantum speedup for the maximum cut problem, CTHPC 2023  (https://sites.google.com/view/cthpc2023), May 25-26, 2023, Taiwan. DOI: [https://doi.org/10.48550/arXiv.2305.16644](https://doi.org/10.48550/arXiv.2305.16644)
